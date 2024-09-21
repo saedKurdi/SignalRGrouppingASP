@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "chevrolet",
+    "BeginPrice": 5500,
+    "CurrentPrice": 5800
+  },
+  {
+    "Name": "bmw",
+    "BeginPrice": 15000,
+    "CurrentPrice": 15000
+  },
+  {
+    "Name": "mercedes",
+    "BeginPrice": 12000,
+    "CurrentPrice": 12300
+  }
+]

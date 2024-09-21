@@ -1,0 +1,6 @@
+@WebSignalRAppLesson15_HostAddress = http://localhost:5285
+
+GET {{WebSignalRAppLesson15_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

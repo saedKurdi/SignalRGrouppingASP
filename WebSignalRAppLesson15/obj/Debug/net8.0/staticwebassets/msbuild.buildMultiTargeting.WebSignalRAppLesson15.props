@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebSignalRAppLesson15.props" />
+</Project>
